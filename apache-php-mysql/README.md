@@ -8,14 +8,12 @@ This application is part of the Todo List sample circut. References to other imp
 
 # Structure
 
-This sample is built using a dockerized version of apache/mysql/php - also known as the **AMP stack**.
-
 ## File Structure
 
 The overall file structure is as follows:
 
 ```text
-/todo-list/
+/apache-php-mysql/
 ├── apache
 │   ├── Dockerfile
 │   └── demo.apache.conf
