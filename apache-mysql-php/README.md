@@ -13,7 +13,7 @@ This application is part of the Todo List sample circut. References to other imp
 The overall file structure is as follows:
 
 ```text
-/apache-php-mysql/
+/apache-mysql-php/
 ├── apache
 │   ├── Dockerfile
 │   └── demo.apache.conf
