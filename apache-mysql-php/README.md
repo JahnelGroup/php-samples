@@ -47,13 +47,11 @@ volumes:
 ### PHP
 PHP connects to the database with [db_connect.php](./public_html/db_connect.php).
 
-## Run
-
-### Prerequisites
+## Prerequisites
 
 You will need to install [docker](https://docs.docker.com/install/) and [docker-compose](https://docs.docker.com/compose/install).
 
-### Start
+## Run
 
 Bring up the entire stack with:
 
